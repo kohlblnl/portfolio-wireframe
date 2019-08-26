@@ -67,6 +67,13 @@ iframe {
   text-align: center;
 }
 
+.contacts {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
 p {
   font-family: 'Work Sans', sans-serif;
   padding: 0 20px;
